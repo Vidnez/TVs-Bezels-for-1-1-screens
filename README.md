@@ -28,7 +28,7 @@ Settings ->
       * Width: 720
       * Height: 540
 
-# For 8:7 Systems (Atari 2600, Atari 5200, Famicom, NES, SNES, Super Game Boy, Turbografx 16, Turbografix CD) 
+# For 8:7 Systems (Atari 2600, Atari 5200, Famicom, NES, SNES, Super Game Boy, Turbografx 16, Turbografx CD) 
 
 Settings ->
 
