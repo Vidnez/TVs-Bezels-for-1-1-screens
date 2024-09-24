@@ -9,7 +9,7 @@ I recommend to use pixel-art-scaling/pixel_aa.glslp shader to avoid uneven pixel
 
 # General Instructions (Applying overlays)
 
-Open 'Quick Menu' on Retroarch (Select + X buttons) > On-Screen Overlay > Overlay Preset > Choose the .cfg file for the system in use. 
+Open 'Quick Menu' on Retroarch > On-Screen Overlay > Overlay Preset > Choose the .cfg file for the system in use. 
 
 Set Overlay Opacity to 1.0
 
