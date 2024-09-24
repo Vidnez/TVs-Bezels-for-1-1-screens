@@ -41,7 +41,22 @@ Settings ->
       - X Position: 25
       - Y Position: 33
       - Width:  670
-      - Height: 586 
+      - Height: 586
+
+# For Game Boy Advance
+
+Settings ->
+
+  - Video ->
+
+    - Scaling ->
+
+      - Integer Scale: OFF
+      - Aspect Ratio: Custom
+      - X Position: 0
+      - Y Position: 50
+      - Width:  720 (3x)
+      - Height: 480 (3x)
 
     
 # Saving changes
