@@ -58,7 +58,37 @@ Settings ->
       - Width:  720 (3x)
       - Height: 480 (3x)
 
-    
+# For Game Boy, Game Boy Color and Game Gear
+
+Settings ->
+
+  - Video ->
+
+    - Scaling ->
+
+      - Integer Scale: OFF
+      - Aspect Ratio: Custom
+      - X Position: 40
+      - Y Position: 20
+      - Width:  640 (4x)
+      - Height: 576 (4x)
+
+ # For Neo Geo Pocket Color
+
+Settings ->
+
+  - Video ->
+
+    - Scaling ->
+
+      - Integer Scale: OFF
+      - Aspect Ratio: Custom
+      - X Position: 40
+      - Y Position: 20
+      - Width:  640 (4x)
+      - Height: 608 (4x)
+
+
 # Saving changes
 
 To save the changes after all the adjustments you need to go to 'Quick menu' > Overrides > Save Content Directory overrides. 
